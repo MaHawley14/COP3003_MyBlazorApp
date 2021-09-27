@@ -1,5 +1,6 @@
 # Matthew Hawley
-https://victorious-hill-00221c810.azurestaticapps.net/
+Instructions: https://sites.google.com/site/profvanselow/programming/languages/c_1/blazor
+App: https://victorious-hill-00221c810.azurestaticapps.net/
 
 ![MyBlazorApp](https://user-images.githubusercontent.com/62121542/134987521-74d09c24-aaa8-4915-bf8b-91cc12539773.png)
 
